@@ -1,5 +1,5 @@
 ---
-name: "INFRA DESTROY (prod)"
+name: "INFRA BUILD (prod)"
 on:
   workflow_dispatch:
     inputs:
